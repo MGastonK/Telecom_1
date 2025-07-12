@@ -35,6 +35,7 @@ Ejercicio académico desarrollado para el programa **"Ciencia de Datos"** de [Al
 2. **Ejecutar en Colab**:
 https://colab.research.google.com/assets/colab-badge.svg
 
+![Ejemplo](cancelacion_no_contrato.png)
 
 ## ✍️ Autor
 M. Gastón Kopelzon
