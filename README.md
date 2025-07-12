@@ -30,7 +30,7 @@ Ejercicio académico desarrollado para el programa **"Ciencia de Datos"** de [Al
 
 1. **Abrir el cuaderno**:
    ```bash
-   git clone https://github.com/MGastonK/TelecomX_LATAM_Challenge_1.git
+   git clone https://github.com/MGastonK/Telecom_1/TelecomX_LATAM_Challenge_1.git
    cd TelecomX_LATAM_Challenge_1
 2. **Ejecutar en Colab**:
 https://colab.research.google.com/assets/colab-badge.svg
